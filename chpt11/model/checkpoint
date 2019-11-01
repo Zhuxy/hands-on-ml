@@ -1,2 +1,2 @@
-model_checkpoint_path: "ex8_1.ckpt"
-all_model_checkpoint_paths: "ex8_1.ckpt"
+model_checkpoint_path: "ex8_4.ckpt"
+all_model_checkpoint_paths: "ex8_4.ckpt"
